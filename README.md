@@ -6,7 +6,7 @@
 
 
 ## Intro
-Time to put what we learned to some practical use! The following lab provides the opportunity to create your personal portfolio webpage.
+Time to put what we've learned to some practical use! The following lab provides the opportunity to create your personal portfolio webpage.
 
 ## Setup and Instructions 
 1. **DO NOT fork and clone this lab**
