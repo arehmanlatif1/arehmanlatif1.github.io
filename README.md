@@ -72,4 +72,3 @@ You can also search "developer portfolio website" for more ideas :)
 
 Please **create an issue on this repo**, containing a link to the **repo** you created and the webpage that you deployed to Github Pages. 
 
-### How to creae an Issue Ticket
