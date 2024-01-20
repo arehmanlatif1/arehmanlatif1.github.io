@@ -46,7 +46,7 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 ## Inspiration
 
-Personal websites from some previous SEI grads:
+Personal websites from some previous SEB grads:
 
 * http://bnmrrs.com/
 * http://raleighdaniel.com/
